@@ -47,3 +47,22 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+# R and RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Data files (keep them local, not on GitHub)
+data/*.xlsx
+data/*.sav
+data/*.csv
+
+# Outputs (you can relax this later if you want figures tracked)
+outputs/figures/*.tiff
+outputs/figures/*.png
+outputs/tables/*.html
+
+# OS junk
+.DS_Store
+Thumbs.db
