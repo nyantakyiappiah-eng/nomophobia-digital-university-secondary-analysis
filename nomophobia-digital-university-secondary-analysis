@@ -1,0 +1,12 @@
+nomophobia-digital-university-secondary-analysis/
+  R/
+    01_cfa.R
+    02_regression_models.R
+    03_figures.R
+  data/
+  outputs/
+    figures/
+    tables/
+  manuscript/
+    manuscript_outline.md
+  .gitignore
